@@ -1,4 +1,4 @@
-#YouTube Songs Downloader (🇰🇷 소개)
+# YouTube Songs Downloader (🇰🇷 소개)
 
 이 프로젝트는 PyQt5를 사용하여 유튜브에서 노래를 검색하고 다운로드할 수 있는 GUI 애플리케이션입니다. 사용자는 원하는 노래 제목을 입력하고, 다운로드 경로를 설정한 후, 버튼을 클릭하여 손쉽게 음악을 mp4 형식으로 다운로드할 수 있습니다.
 
@@ -42,7 +42,7 @@ get_top_video_url(): yt_dlp를 활용해 유튜브에서 검색
 
 download_youtube_video_mp4(): pytubefix로 영상 다운로드
 
-#YouTube Songs Downloader (English)
+# YouTube Songs Downloader (English)
 
 This project is a GUI application built with PyQt5 that allows users to search and download YouTube songs as mp4 files. Users simply enter a song title and download location, and the application handles the rest.
 
